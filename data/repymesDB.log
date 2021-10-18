@@ -1,0 +1,60 @@
+/*C4*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C5*/SET SCHEMA REPYMES
+DELETE FROM USERS WHERE NAME='admin'
+INSERT INTO USERS VALUES('admin','N                                                                                                                                                                                                                                                              ',NULL,NULL,'2020-08-06 12:47:15.246000','-2fcc1dd51cb7514a99f03debf513ca7af3b25669')
+COMMIT
+DELETE FROM USERS WHERE NAME='admin'
+INSERT INTO USERS VALUES('admin','N                                                                                                                                                                                                                                                              ',NULL,NULL,'2020-08-06 12:47:21.922000','-2fcc1dd51cb7514a99f03debf513ca7af3b25669')
+COMMIT
+DELETE FROM USERS WHERE NAME='admin'
+INSERT INTO USERS VALUES('admin','N                                                                                                                                                                                                                                                              ',NULL,NULL,'2020-08-06 12:47:22.881000','-2fcc1dd51cb7514a99f03debf513ca7af3b25669')
+COMMIT
+DELETE FROM USERS WHERE NAME='admin'
+INSERT INTO USERS VALUES('admin','N                                                                                                                                                                                                                                                              ',NULL,NULL,'2020-08-06 12:47:23.718000','-2fcc1dd51cb7514a99f03debf513ca7af3b25669')
+COMMIT
+DELETE FROM USERS WHERE NAME='admin'
+INSERT INTO USERS VALUES('admin','N                                                                                                                                                                                                                                                              ',NULL,NULL,'2020-08-06 12:47:24.332000','-2fcc1dd51cb7514a99f03debf513ca7af3b25669')
+COMMIT
+DELETE FROM USERS WHERE NAME='admin'
+INSERT INTO USERS VALUES('admin','N                                                                                                                                                                                                                                                              ',NULL,NULL,'2020-08-06 12:47:24.691000','-2fcc1dd51cb7514a99f03debf513ca7af3b25669')
+COMMIT
+DELETE FROM USERS WHERE NAME='admin'
+INSERT INTO USERS VALUES('admin','N                                                                                                                                                                                                                                                              ',NULL,NULL,'2020-08-06 12:47:25.096000','-2fcc1dd51cb7514a99f03debf513ca7af3b25669')
+COMMIT
+DELETE FROM USERS WHERE NAME='admin'
+INSERT INTO USERS VALUES('admin','N                                                                                                                                                                                                                                                              ',NULL,NULL,'2020-08-06 12:47:25.464000','-2fcc1dd51cb7514a99f03debf513ca7af3b25669')
+COMMIT
+DELETE FROM USERS WHERE NAME='admin'
+INSERT INTO USERS VALUES('admin','N                                                                                                                                                                                                                                                              ',NULL,NULL,'2020-08-06 12:47:25.818000','-2fcc1dd51cb7514a99f03debf513ca7af3b25669')
+COMMIT
+DELETE FROM USERS WHERE NAME='admin'
+INSERT INTO USERS VALUES('admin','N                                                                                                                                                                                                                                                              ',NULL,NULL,'2020-08-06 12:47:26.223000','-2fcc1dd51cb7514a99f03debf513ca7af3b25669')
+COMMIT
+DELETE FROM USERS WHERE NAME='admin'
+INSERT INTO USERS VALUES('admin','N                                                                                                                                                                                                                                                              ',NULL,NULL,'2020-08-06 12:47:26.629000','-2fcc1dd51cb7514a99f03debf513ca7af3b25669')
+COMMIT
+DELETE FROM USERS WHERE NAME='admin'
+INSERT INTO USERS VALUES('admin','N                                                                                                                                                                                                                                                              ',NULL,NULL,'2020-08-06 12:47:31.677000','-2fcc1dd51cb7514a99f03debf513ca7af3b25669')
+COMMIT
+DELETE FROM USERS WHERE NAME='admin'
+INSERT INTO USERS VALUES('admin','N                                                                                                                                                                                                                                                              ',NULL,NULL,'2020-08-06 12:47:32.510000','-2fcc1dd51cb7514a99f03debf513ca7af3b25669')
+COMMIT
+DELETE FROM USERS WHERE NAME='admin'
+INSERT INTO USERS VALUES('admin','N                                                                                                                                                                                                                                                              ',NULL,NULL,'2020-08-06 12:47:32.953000','-2fcc1dd51cb7514a99f03debf513ca7af3b25669')
+COMMIT
+DELETE FROM USERS WHERE NAME='admin'
+INSERT INTO USERS VALUES('admin','N                                                                                                                                                                                                                                                              ',NULL,NULL,'2020-08-06 12:47:33.316000','-2fcc1dd51cb7514a99f03debf513ca7af3b25669')
+COMMIT
+DELETE FROM USERS WHERE NAME='admin'
+INSERT INTO USERS VALUES('admin','N                                                                                                                                                                                                                                                              ',NULL,NULL,'2020-08-06 12:47:33.751000','-2fcc1dd51cb7514a99f03debf513ca7af3b25669')
+COMMIT
+DELETE FROM USERS WHERE NAME='admin'
+INSERT INTO USERS VALUES('admin','N                                                                                                                                                                                                                                                              ',NULL,NULL,'2020-08-06 12:47:34.154000','-2fcc1dd51cb7514a99f03debf513ca7af3b25669')
+COMMIT
+DELETE FROM USERS WHERE NAME='admin'
+INSERT INTO USERS VALUES('admin','N                                                                                                                                                                                                                                                              ',NULL,NULL,'2020-08-06 12:47:34.542000','-2fcc1dd51cb7514a99f03debf513ca7af3b25669')
+COMMIT
+DELETE FROM USERS WHERE NAME='admin'
+INSERT INTO USERS VALUES('admin','N                                                                                                                                                                                                                                                              ',NULL,NULL,'2020-08-06 12:47:34.952000','-2fcc1dd51cb7514a99f03debf513ca7af3b25669')
+COMMIT
